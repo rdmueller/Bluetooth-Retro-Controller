@@ -8,17 +8,13 @@ image::images/settings-d1-mini.png[]
 
 I2C IO Expander modification
 
-image::images/20250615_124618.jpg[]
-
-image::images/20250615_124722.jpg[]
-
-image::images/20250615_131046.jpg[]
-
-image::images/20250615_131339.jpg[]
+image:images/20250615_124618.jpg[width=20%]
+image:images/20250615_124722.jpg[width=20%]
+image:images/20250615_131046.jpg[width=20%]
+image:images/20250615_131339.jpg[width=20%]
 
 Bread-Board:
 
-image::images/20250615_165404.jpg[]
-
-image::images/20250615_165428.jpg[]
+image:images/20250615_165404.jpg[width=45%]
+image:images/20250615_165428.jpg[width=45%]
 
