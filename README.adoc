@@ -1,0 +1,6 @@
+# Bluetooth-Retro-Controller
+
+Windows Drivers for USB-to-Serial needed to program D1 Mini: https://www.silabs.com/developer-tools/usb-to-uart-bridge-vcp-drivers?tab=downloads
+
+Working setting: image::images/settings-d1-mini.png[]
+
